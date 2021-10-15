@@ -1,0 +1,16 @@
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/discussion/66343
+https://arxiv.org/abs/1605.07866
+https://arxiv.org/pdf/1505.04597.pdf
+https://arxiv.org/abs/1807.10165
+https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/
+https://medium.com/@vijayabhaskar96/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720
+https://towardsdatascience.com/deep-learning-unbalanced-training-data-solve-it-like-this-6c528e9efea6
+https://forums.fast.ai/t/how-to-deal-with-unbalanced-data-classes-in-image-classification/14343/2
+https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+https://www.datacamp.com/community/tutorials/diving-deep-imbalanced-data
+https://github.com/broadinstitute/keras-rcnn
+https://www.google.com.au/search?q=rcnn+keras
+https://link.springer.com/article/10.1186/s40537-019-0192-5
+https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+https://github.com/zhixuhao/unet
+https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion
