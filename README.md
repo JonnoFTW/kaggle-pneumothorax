@@ -2,6 +2,8 @@
 
 My project for detecting Pneumothorax on kaggle
 
+https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
+
 Putting it here so I don't lose it.
 
 ## What should I expect the data format to be?
