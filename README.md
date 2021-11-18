@@ -6,6 +6,8 @@ https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/overview
 
 Putting it here so I don't lose it.
 
+Shoutout to my dad, Glenn Mackenzie, for helping me with understand the various chest X-Rays.
+
 ## What should I expect the data format to be?
 The data is comprised of images in DICOM format and annotations in the form of image IDs and run-length-encoded (RLE) masks. Some of the images contain instances of pneumothorax (collapsed lung), which are indicated by encoded binary masks in the annotations. Some images have multiple annotations.
 
